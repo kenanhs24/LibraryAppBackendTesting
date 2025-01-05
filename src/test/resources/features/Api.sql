@@ -1,1 +1,1 @@
-SELECT * FROM users WHERE email = 'hidirsenhidir@test';
+SELECT * FROM users WHERE email = 'newhidir@mail.com';
